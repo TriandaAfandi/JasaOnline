@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Jasa Online</string>
+    <string name="beranda">Beranda</string>
+    <string name="jasa_pengguna">Jasa Pengguna</string>
+    <string name="pengaturan_akun">Pengaturan Akun</string>
+    <string name="profil">Profil</string>
+    <string name="logout">Logout</string>
+    <string name="nama_header">Nama di Header</string>
+    <string name="email_header">Email di Header</string>
+    <string name="image_header">image header</string>
+    <string name="fragment_beranda">Ini fragment Beranda Pengguna</string>
+    <string name="fragment_jasa">Ini fragment Jasa Pengguna</string>
+    <string name="fragment_profil">Ini fragment Profil Pengguna</string>
+    <!--splash screen-->
+    <string name="icon_url">https://www.flaticon.com/</string>
+    <!--form login-->
+    <string name="judul_activity_login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="judul_daftar">Tidak punya akun, <b>Daftar</b></string>
+    <string name="lupa_password">Lupa <b>password?</b></string>
+    <string name="atau_login">Atau login dengan</string>
+    <!--form register-->
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <array name="jenis_kelamin">
+        <item>Jenis Kelamin</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </array>
+    <string name="no_hp">Nomor HP</string>
+    <string name="alamat">Alamat</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="submit">Submit</string>
+
+    <!--fragment profile-->
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="waktu_sesi">Waktu Sesi</string>
+    <string name="myname">Trianda Afandi</string>
+    <string name="mybirth">22 Mei 1990</string>
+    <string name="mygender">Pria</string>
+    <string name="myphone">0852-7142-6280</string>
+    <string name="myaddres"> Jl. Batu Panjang,  Rupat, Bengkalis - Riau</string>
+    <string name="myemail">apanjr51@gmail.com</string>
+    <string name="mysession">09-10-2018 09:00:00</string>
+    <string name="edit_profil">Ubah Profil</string>
+    <string name="hapus_akun">Hapus Akun</string>
+
+    <!--form edit profile-->
+    <string name="judul_password">Silahkan kosongkan password, jika tidak mau mengubahnya!</string>
+    <!--jasa list-->
+    <string name="service_ac_barokah">Service AC Barokah</string>
+    <string name="deskripsi_ringkas">Melayani service ac rumah, kantor,
+gedung dll</string>
+    <string name="rating">4</string>
+
+    <!--form detail jasa-->
+    <string name="nama_jasa">Nama Jasa</string>
+    <string name="penyedia">Penyedia</string>
+    <string name="kontak">Kontak</string>
+    <string name="newrating">Rating</string>
+    <string name="deskripsi_singkat">Deskripsi Singkat</string>
+    <string name="uraian_deskripsi">Uraian Deskripsi</string>
+
+</resources>
